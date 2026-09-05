@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369270572865",
+    "project_id": "bloodfinder-73620",
+    "storage_bucket": "bloodfinder-73620.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369270572865:android:f37942d4a7cf07b67ec3c0",
+        "android_client_info": {
+          "package_name": "com.bloodfinder.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC7L5UzzYNYPKgiaas0mys-dWEI9AfXAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
